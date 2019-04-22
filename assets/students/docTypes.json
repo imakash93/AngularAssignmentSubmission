@@ -1,0 +1,30 @@
+[
+    {
+      "name":"Domicile",
+      "requiredFor":{
+        "international":true,
+        "domestic" :true
+      }
+    } ,
+      {
+        "name":"Birthcertificate",
+        "requiredFor":{
+          "international":true,
+          "domestic" :true
+        }
+    }, 
+     {
+        "name":"Previousmarksheets",
+        "requiredFor":{
+          "international":true,
+          "domestic" :true
+        }
+      },
+      {
+        "name":"Signeddeclaration",
+        "requiredFor":{
+          "international":true,
+          "domestic" :true
+        }
+      }
+  ]
